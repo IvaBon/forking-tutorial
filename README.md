@@ -6,5 +6,5 @@ Forking a repository makes an exact copy another project that resides on your pe
 
 ## better
 
-I wrote this to learn how to fork this is new infomation
+I wrote this to learn how to fork this is new infomation, This is a very cool way to add new code to someoen else's repo 
 
